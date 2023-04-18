@@ -1,7 +1,7 @@
 package sss;
 
 /**
- * Hello !
+ * Hello world !
  *
  */
 public class App 
