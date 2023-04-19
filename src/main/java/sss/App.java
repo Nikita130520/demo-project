@@ -1,7 +1,7 @@
 package sss;
 
 /**
- * nikita!
+ * abcdefgh!
  *
  */
 public class App 
